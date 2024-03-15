@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'struct_.dart';
 import 'second.dart';
